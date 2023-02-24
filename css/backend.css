@@ -1,0 +1,119 @@
+  /* add cat */
+   table{
+border:solid 2px;
+align-items: center;
+text-align: center;
+  }
+ 
+#price,#name,#sku,#weight,#size,#height,#width,#length{
+
+  width: 400px; 
+  height: 40px; 
+  
+}
+#checkbox{
+  width: 600px; 
+  height:200px; 
+
+}
+#delete-checkbox{
+  margin-right: 5px;
+  margin-left: 2px;
+  margin-bottom: 5px;
+padding-left: 21;
+
+}
+  .center{
+  align-items: center;
+  display:flex;
+  margin-top: 30px;
+
+}
+.row{
+  justify-content: center; 
+}
+#product-space{
+border:solid grey 2px;
+align-items: center;
+display: inline-block;
+margin-right: 25px;margin-bottom: 25px;
+padding-left:40px;
+width: 900px;
+height:150px;
+display:flex;
+justify-content: center;
+align-items: center;
+
+}
+#delete-checkbox{
+
+margin-bottom:90px;
+padding-left:25px;
+
+
+}
+#weight,#size,#height,#width,#length{
+
+  padding-left:15px;
+  width:200px;
+}
+#productType{
+
+  width: 200px; 
+  padding-right:35px;
+
+}
+  /* add product page */
+  .btn-add,.btn-delete{
+    margin-top: 30px;
+    margin-right:20px;
+    padding-right:20px;
+    display: inline-table;
+    float: right;
+  
+  }
+  .btnCancel,.btnSave{
+    margin-top: 30px;
+    margin-right:20px;
+    padding-right:20px;
+  
+    display: inline-table;
+    float: right;
+  
+  }
+.btnSave{
+  padding-right:4px;
+}
+  .protext{
+  
+  margin-top: 30px;
+  margin-left:75px;
+  display: inline-table;
+  }
+  .btn-delete{
+    margin-right:5px;
+    margin-left:-10px
+  
+  }
+  .addcat{
+    margin-top: 30px;
+    margin-right:14px;
+    display:inline-table;
+    float: right;
+
+  }
+  .cattext{
+    
+  margin-top: 30px;
+  margin-left:75px;
+  display: inline-table;
+
+  }
+  
+  #addcatfrm{
+    float:left;
+    display:center;
+    margin-top:60px;
+
+  }
+ 
