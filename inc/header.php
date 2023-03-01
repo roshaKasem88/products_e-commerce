@@ -5,7 +5,6 @@ include '../lib/Database.php';
 include '../Classes/Format.php';
 include '../Classes/ProductType.php';
 
-
 $db = new Database();
 $fm = new Format();
 $cat = new ProductType();
@@ -28,6 +27,9 @@ $cat = new ProductType();
     <link rel="stylesheet"
         stylesheet="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/fontawesome.min.css">
     <link rel="stylesheet" type="text/css" href="../css/backend.css">
-  <script src="https://code.jquery.com/jquery-3.6.3.min.js"
-   integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="../css/jquery.steps.css">
+    <link rel="stylesheet" type="text/css" href="../css/font-awesome.css">
+
+
+   
 </head>

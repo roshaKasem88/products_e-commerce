@@ -2,6 +2,20 @@
 $filepath=realpath(__FILE__);
 $pageTitle='Product List';
 include '../inc/header.php';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ?>
 
 <div class="protext">
